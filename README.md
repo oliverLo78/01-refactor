@@ -4,14 +4,12 @@
 
 Webpage that meets accessibility standards so that the site is optimized for search engines 
 
-- More business company need website with acconsideration for people with disabilities so they can access website 
-- to make website more accessible to all people 
+- More companies need websites that rank high in SEO 
+- To make a website that is more accessible to people that have disabilities
+- Learned to set up an HTML page that meets these high standards 
 - 
-- What did you learn?
 
 ## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,28 +18,18 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+1. Head on over to the website https://oliverlo78.github.io/01-refactor/ 
+2. Then check out the simple yet effective layout of the website 
+3. Hover over the page to experience the features that will make your online presence felt  
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+The following image shows the web application's appearance and functionality:
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/screenshot-top%20.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
+horiseon Social solutions services 
