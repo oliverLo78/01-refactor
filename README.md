@@ -7,7 +7,6 @@ Webpage that meets accessibility standards so that the site is optimized for sea
 - More companies need websites that rank high in SEO 
 - To make a website that is more accessible to people that have disabilities
 - Learned to set up an HTML page that meets these high standards 
-- 
 
 ## Table of Contents (Optional)
 
