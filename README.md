@@ -1,4 +1,4 @@
-# challenge-01
+# 01-Refactor
 
 ## Description
 
